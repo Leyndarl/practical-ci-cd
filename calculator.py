@@ -1,4 +1,3 @@
-# Создай файл calculator.py с функциями:
 # calculator.py
 def add(a, b):
     return a + b
